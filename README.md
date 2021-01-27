@@ -1,2 +1,3 @@
 # patternsJava
-My way to know about patterns. Created with goal to distant chek of works.
+
+Создано для проверки дистанционно. Все задачи выше подписаны по номеру задачи по возрастанию.
